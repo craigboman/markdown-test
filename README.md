@@ -34,9 +34,7 @@ testing embedded videos markdown
 # Documentation
 
 ## What types of data can I analyze?
-Like all EZproxy implementations, the two primary logs are audit logs and EZproxy logs. These logs are imported into Kibana via EZpaarse and LogStash without leaving your original hosted EZproxy server. 
 
-Visit the following page for more information about your [EZproxy server logs](https://help.oclc.org/Library_Management/EZproxy/Manage_EZproxy/Log_files_overview).
 
 <!-- blank line -->
 <figure class="video_container">
