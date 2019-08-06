@@ -3,6 +3,8 @@ testing embedded videos markdown
 
 [![](http://img.youtube.com/vi/BacBQiTonzU/0.jpg)](http://www.youtube.com/watch?v=BacBQiTonzU "")
 
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+
 
 <!-- blank line -->
 <figure class="video_container">
