@@ -1,6 +1,8 @@
 # markdown-test
 testing embedded videos markdown
 
+[![](http://img.youtube.com/vi/BacBQiTonzU/0.jpg)](http://www.youtube.com/watch?v=BacBQiTonzU "")
+
 
 <!-- blank line -->
 <figure class="video_container">
